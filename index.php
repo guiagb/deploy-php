@@ -69,12 +69,12 @@
         <div class="col-md-6">
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">
-              <strong class="d-inline-block mb-2 text-primary">World</strong>
+              <strong class="d-inline-block mb-2 text-primary">Energia</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">Café de um Mainframer</a>
               </h3>
               <div class="mb-1 text-muted">Gratuito, seja feliz!</div>
-              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <p class="card-text mb-auto">Aproveite esse momento de visita e experimente a fonte de energia de um programador.</p>
               <a target="_blank" href="https://www.istockphoto.com/br/foto/caf%C3%A9-quente-na-mesa-de-madeira-gm1084020754-290830022">Comprar</a>
             </div>
             <img class="card-img-right flex-auto d-none d-md-block" src="/istockphoto-1084020754-612x612.jpg" alt="Card image cap">
@@ -83,15 +83,15 @@
         <div class="col-md-6">
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">
-              <strong class="d-inline-block mb-2 text-success">Design</strong>
+              <strong class="d-inline-block mb-2 text-success">Conhecimento</strong>
               <h3 class="mb-0">
-                <a class="text-dark" href="#">Post title</a>
+                <a class="text-dark" href="#">Entendendo Rexx</a>
               </h3>
-              <div class="mb-1 text-muted">Nov 11</div>
-              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-              <a href="#">Continue reading</a>
+              <div class="mb-1 text-muted">R$ 100,00</div>
+              <p class="card-text mb-auto">Após consumir a energia ao lado, você pode efetuar a compra do curso de Rexx e detonar!</p>
+              <a href="#">Compre</a>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
+            <img class="card-img-right flex-auto d-none d-md-block" src="/Rexx-img-lg.png" alt="Card image cap">
           </div>
         </div>
       </div>
