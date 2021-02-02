@@ -61,7 +61,7 @@
         <div class="col-md-6 px-0">
           <h1 class="display-4 font-italic">Guilherme Bueno</h1>
           <p class="lead my-3">Você já falou com um Mainframer antes?</p>
-          <p class="lead mb-0"><a target="_blank" href="https://api.whatsapp.com/send?phone=5511964344128&text=ol%C3%A1%2C%20quero%20te%20conhecer%20melhor" class="text-white font-weight-bold">Fale agora com um Mainframer</a></p>
+          <p class="lead mb-0"><a target="_blank" href="https://api.whatsapp.com/send?phone=5511964344128&text=ol%C3%A1%2C%20quero%20te%20conhecer%20melhor" class="text-white font-weight-bold">Fale agora</a></p>
         </div>
       </div>
 
@@ -71,13 +71,13 @@
             <div class="card-body d-flex flex-column align-items-start">
               <strong class="d-inline-block mb-2 text-primary">World</strong>
               <h3 class="mb-0">
-                <a class="text-dark" href="#">Featured post</a>
+                <a class="text-dark" href="#">Café de um Mainframer</a>
               </h3>
-              <div class="mb-1 text-muted">Nov 12</div>
+              <div class="mb-1 text-muted">Gratuito, seja feliz!</div>
               <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-              <a href="#">Continue reading</a>
+              <a target="_blank" href="https://www.istockphoto.com/br/foto/caf%C3%A9-quente-na-mesa-de-madeira-gm1084020754-290830022">Comprar</a>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
+            <img class="card-img-right flex-auto d-none d-md-block" src="/istockphoto-1084020754-612x612.jpg" alt="Card image cap">
           </div>
         </div>
         <div class="col-md-6">
