@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Blog Template for Bootstrap</title>
+    <title>Gui sincero...</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/blog/">
 
@@ -59,9 +59,9 @@
 
       <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
         <div class="col-md-6 px-0">
-          <h1 class="display-4 font-italic">Title of a longer featured blog post</h1>
-          <p class="lead my-3">Multiple lines of text that form the lede, informing new readers quickly and efficiently about what's most interesting in this post's contents.</p>
-          <p class="lead mb-0"><a href="#" class="text-white font-weight-bold">Continue reading...</a></p>
+          <h1 class="display-4 font-italic">As verdades que machucam</h1>
+          <p class="lead my-3">Se você ainda não foi pegar um café, vá agora!.</p>
+          <p class="lead mb-0"><a target="_blank" href="https://cafesantoandre.files.wordpress.com/2012/02/caffeine-main_full.jpg" class="text-white font-weight-bold">café loading...</a></p>
         </div>
       </div>
 
