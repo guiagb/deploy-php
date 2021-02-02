@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Gui sincero...</title>
+    <title>Gui Rexx</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/blog/">
 
@@ -59,9 +59,9 @@
 
       <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
         <div class="col-md-6 px-0">
-          <h1 class="display-4 font-italic">As verdades que machucam</h1>
-          <p class="lead my-3">Se você ainda não foi pegar um café, vá agora!.</p>
-          <p class="lead mb-0"><a target="_blank" href="https://cafesantoandre.files.wordpress.com/2012/02/caffeine-main_full.jpg" class="text-white font-weight-bold">café loading...</a></p>
+          <h1 class="display-4 font-italic">Guilherme Bueno</h1>
+          <p class="lead my-3">Você já falou com um Mainframer antes?</p>
+          <p class="lead mb-0"><a target="_blank" href="https://api.whatsapp.com/send?phone=5511964344128&text=ol%C3%A1%2C%20quero%20te%20conhecer%20melhor" class="text-white font-weight-bold">Fale agora com um Mainframer</a></p>
         </div>
       </div>
 
