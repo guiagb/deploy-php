@@ -2,10 +2,11 @@
 <h2 style="color: red"> Alteracao feita</h2>
 
 <div style="display:flex; height: 400px"> 
-    <div sytle="background-color: blue">
+    <div style="background-color: blue">
         essa eh a coluna de cor azul
     </div>
-    <div sytle="background-color: yellow">
+    </br>
+    <div style="background-color: yellow">
         essa eh a coluna de cor amarela
     </div>
 </div>
